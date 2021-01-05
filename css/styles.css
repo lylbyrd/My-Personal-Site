@@ -1,0 +1,155 @@
+/** Icons made by <a href="https://www.flaticon.com/authors/freepik"
+title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"
+title="Flaticon"> www.flaticon.com</a>
+Icons made by <a href="https://www.flaticon.com/authors/freepik"
+title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"
+title="Flaticon"> www.flaticon.com</a>*/
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+h1{
+  margin-top: 50;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #e9b2bc;
+  background-image: url("img/floral.png");
+/** centers the element, especially when using a width set*/
+}
+ h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #dea9b2;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #dea9b2;
+}
+
+hr{
+  border: dotted #e9b2bc 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.navbar{
+  padding: 20px;
+  font-size: 20px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+a{
+  color: #e9b2bc;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover{
+  color: #f3dfe3;
+}
+
+.profile-image{
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+}
+
+.programmer{
+  font-weight: normal;
+}
+
+.header{
+  background-color: #f3dfe3;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+margin: 100px 0px;
+}
+
+.bottom-container{
+ margin: auto;
+ background-color: #f3dfe3;
+ padding: 50px 0 2px;
+
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+  padding: 20px;
+}
+
+.contact-btn {
+	background:linear-gradient(to bottom, #e9b2bc 5%, #dea9b2 100%);
+	background-color:#dea9b2;
+	border-radius:8px;
+  border-color: #e9b2bc;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Montserrat';
+	font-size:20px;
+	font-weight:bold;
+	padding:10px 20px;
+	text-decoration:none;
+}
+.contact-btn:hover {
+	background:linear-gradient(to bottom, #edc5cc 5%, #deb1b9 100%);
+	background-color:#deb1b9;
+}
+.contact-btn:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-me{
+  padding: 20px;
+}
+
+.gamingpic{
+  float: right;
+  margin-left: 30px;
+  margin-left: 0px;
+  width: 25%;
+}
+.artpic{
+  float: left;
+  margin-right: 30px;
+  margin-left: 0px;
+  width: 25%;
+}
+.skill-row{
+  line-height: 2;
+  width: 50%;
+  text-align: left;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+  padding-top: 30px;
+  position: relative;
+}
+.flowers{
+  position: relative;
+  margin: 10px auto 10px;
+}
